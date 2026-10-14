@@ -59,5 +59,6 @@ const Auth = {
 
 const history = {
     a : "a",
-    b: "b"
+    b: "b",
+    c: "c"
 }
