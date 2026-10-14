@@ -29,4 +29,5 @@ const handler = "some handler"
 const state = {
     state: "stateOne",
     stateTwo: "stateTwo",
+    stateThree: "stateThree",
 }
