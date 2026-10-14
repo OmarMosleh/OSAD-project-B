@@ -53,5 +53,6 @@ const About = {
 
 const Auth = {
     Jwt : "dafasdfsa",
-    user : "user"
+    user : "user",
+    token : "token"
 }
