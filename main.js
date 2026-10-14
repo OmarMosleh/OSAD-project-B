@@ -47,5 +47,6 @@ const About = {
     image: "image",
     description: "description",
     button: "button",
-    helpers : "helpers"
+    helpers : "helpers",
+    media : "media"
 }
