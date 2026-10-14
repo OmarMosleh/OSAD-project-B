@@ -56,3 +56,7 @@ const Auth = {
     user : "user",
     token : "token"
 }
+
+const history = {
+    a : "a"
+}
