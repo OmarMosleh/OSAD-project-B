@@ -25,3 +25,7 @@ const products = [
 ]
 
 const handler = "some handler"
+
+const state = {
+    state: "stateOne"
+}
