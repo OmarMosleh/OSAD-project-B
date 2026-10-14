@@ -37,5 +37,6 @@ const Home = {
     title: "title",
     subtitle: "subtitle",
     image: "image",
-    description: "description"
+    description: "description",
+    button: "button"
 }
