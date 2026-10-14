@@ -46,5 +46,6 @@ const About = {
     subtitle: "subtitle",
     image: "image",
     description: "description",
-    button: "button"
+    button: "button",
+    helpers : "helpers"
 }
