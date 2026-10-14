@@ -50,3 +50,7 @@ const About = {
     helpers : "helpers",
     media : "media"
 }
+
+const Auth = {
+    Jwt = "dafasdfsa"
+}
