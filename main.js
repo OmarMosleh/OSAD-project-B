@@ -31,3 +31,10 @@ const state = {
     stateTwo: "stateTwo",
     stateThree: "stateThree",
 }
+
+
+const Home = {
+    title: "title",
+    subtitle: "subtitle",
+    image: "image"
+}
