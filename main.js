@@ -1,4 +1,4 @@
-const mainUser = "Omar Mosleh";
+const mainUser = "omar mosleh & Mahmoud Helmy";
 const variableOne = "var one";
 const variableTwo = "var Two";
 const variableThree = "var Three";
@@ -39,4 +39,14 @@ const Home = {
     image: "image",
     description: "description",
     button: "button"
+}
+
+const About = {
+    title: "title",
+    subtitle: "subtitle",
+    image: "image",
+    description: "description",
+    button: "button",
+    helpers : "helpers",
+    media : "media"
 }
