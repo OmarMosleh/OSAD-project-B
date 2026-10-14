@@ -10,6 +10,11 @@ const navVars = {
     about: "about",
     contact: "contact"
 }
+const HeroVars = {
+    title: "title",
+    subtitle: "subtitle",
+    image: "image"
+}
 
 
 
