@@ -1,4 +1,4 @@
-const mainUser = "mahmoud";
+const mainUser = "Omar Mosleh";
 const variableOne = "var one";
 const variableTwo = "var Two";
 const variableThree = "var Three";
