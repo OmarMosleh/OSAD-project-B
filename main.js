@@ -40,3 +40,11 @@ const Home = {
     description: "description",
     button: "button"
 }
+
+const About = {
+    title: "title",
+    subtitle: "subtitle",
+    image: "image",
+    description: "description",
+    button: "button"
+}
