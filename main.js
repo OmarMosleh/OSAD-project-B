@@ -36,5 +36,6 @@ const state = {
 const Home = {
     title: "title",
     subtitle: "subtitle",
-    image: "image"
+    image: "image",
+    description: "description"
 }
