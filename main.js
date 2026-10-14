@@ -52,5 +52,6 @@ const About = {
 }
 
 const Auth = {
-    Jwt = "dafasdfsa"
+    Jwt : "dafasdfsa",
+    user : "user"
 }
